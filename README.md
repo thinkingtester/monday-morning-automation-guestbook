@@ -14,15 +14,15 @@ To sign the guestbook:
 
 4. cd to the repository
 
-5. Create a branch and switch to it with the command "git checkout -b <yournamehere>signature" (replacing <yournamehere> with your name)
+5. Create a branch and switch to it with the command "git checkout -b yournameheresignature" (replacing yournamehere with your name)
 
 6. Open the guestbook.txt file and add a new line with your name, your location, and the date (leave one blank line after the previous guest)
 
 7. Run "git add guestbook.txt" to stage the changes
 
-8. Run "git commit -m "Signing the guestbook"" to commit the changes
+8. Run 'git commit -m "Signing the guestbook"' to commit the changes
 
-9. Run "git push origin <yournamehere>signature" to push the changes to GitHub
+9. Run "git push origin yournameheresignature" to push the changes to GitHub (replacing yournamehere with your name)
 
 10. Go to GitHub and click on the "1 commit ahead" link
 
